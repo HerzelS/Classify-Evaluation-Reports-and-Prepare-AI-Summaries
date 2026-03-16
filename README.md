@@ -29,6 +29,7 @@ This project provides a pipeline for **automated content analysis** of evaluatio
 
 ## 📂 Project Structure
 
+````text
 ├── library/
 │   └── taxonomy.xlsx                  # Taxonomy definitions (Category, Description)
 ├── reports/
@@ -40,6 +41,8 @@ This project provides a pipeline for **automated content analysis** of evaluatio
 ├── main.py                            # Core script for extraction & classification
 ├── summarize.py                       # Script for generating Word summary report
 └── README.md                          # Project documentation
+
+````
 
 ## 🚀 Usage
 
