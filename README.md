@@ -62,7 +62,7 @@ Create an Excel file (library/taxonomy.xlsx) with the following columns:
 - Description: Short description of the category
 
 ````bash
-python main.py
+python main_notebook.ipynb
 ````
 
 This will:
@@ -73,7 +73,7 @@ This will:
 
 ### 3. Run classification
 ````bash
-python main.py
+python main_notebook.ipynb
 ````
 
 This will:
