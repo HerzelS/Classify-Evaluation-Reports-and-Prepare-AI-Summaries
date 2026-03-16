@@ -1,0 +1,6 @@
+pandas
+pdfplumber
+ollama
+tqdm
+diskcache
+python-docx
